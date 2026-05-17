@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/api/:path*",
-      "destination": "https://script.google.com/macros/s/AKfycbxvgkIlqCqEvCPL8zQH1iYbBUzoCe1c61jG95KkoNZxhc9dufMtpmaTVMrmE_qu5nJl4w/exec/"
+      "source": "/",
+      "destination": "https://script.google.com/macros/s/AKfycbxvgkIlqCqEvCPL8zQH1iYbBUzoCe1c61jG95KkoNZxhc9dufMtpmaTVMrmE_qu5nJl4w/exec",
+      "permanent": false
     }
   ]
 }
